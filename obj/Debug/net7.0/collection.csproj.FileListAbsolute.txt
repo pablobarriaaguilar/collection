@@ -1,0 +1,14 @@
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\bin\Debug\net7.0\collection.exe
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\bin\Debug\net7.0\collection.deps.json
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\bin\Debug\net7.0\collection.runtimeconfig.json
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\bin\Debug\net7.0\collection.dll
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\bin\Debug\net7.0\collection.pdb
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.AssemblyInfo.cs
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.dll
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\refint\collection.dll
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.pdb
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\collection.genruntimeconfig.cache
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Dia 1\collection\obj\Debug\net7.0\ref\collection.dll
